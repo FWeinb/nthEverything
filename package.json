@@ -1,5 +1,5 @@
 {
-  "name": "nthEverything",
+  "name": "jquery.nthEverything",
   "description": "Adding pseudo classes ::nth-word/letter ::first/last-word/letter",
   "version": "0.1",
   "author": "Fabrice Weinberg (http://fabrice.weinberg.me/)",
